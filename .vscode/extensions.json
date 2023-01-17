@@ -1,7 +1,3 @@
 {
-  "recommendations": [
-    "redhat.java",
-    "vscjava.vscode-java-debug",
-    "formulahendry.code-runner"
-  ]
+  "recommendations": []
 }
